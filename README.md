@@ -1,3 +1,7 @@
 # Council
 A desktop application (using JavaFX) for entrance exam counselors who can control students' plans. This program can also be useful for students themselves
-![council](https://github.com/MohammadJavadN/Council/assets/84620697/5b47bd63-5573-4f3f-a3ac-4f27f5f21da8)
+
+
+
+https://github.com/MohammadJavadN/Council/assets/84620697/c137d886-53b1-4779-b8a2-0faa709a5ad6
+
